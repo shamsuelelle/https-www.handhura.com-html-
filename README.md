@@ -1,8 +1,10 @@
 # https-www.handhura.com-html-
 <!Doctype html>
-<html>
+<html lang="orm-et">
 <head>
-<title>Handhura</title>
+  <meta charset="utf-8"/>
+  <title>Handhura.com.</title>
+  <link rel="canonical" href="https://www.handhura.com/">
 </head>
 <body>
 <h2>Hello World</h2>
